@@ -1,10 +1,15 @@
 {
- "work": "六帖詠草",
+ "work": "六帖詠草（続日本歌学全書本）",
  "work_id": "zokukagaku06-rokujo-eiso",
  "repo": "kumoi-no-fumigura/kagaku-rokujo-eiso",
  "yomi": "ろくじょうえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "江戸後期",
+  "author": "小沢蘆庵（1723〜1801）",
+  "desc": "「ただごと歌」を説いた小沢蘆庵の家集。門人の小川萍流が蘆庵の詠草を集め、詞書を補って編んだと跋にいう。天明8年の京の大火を詠んだ歌なども収める。"
+ },
  "editions": [
   {
    "pid": "993384",
