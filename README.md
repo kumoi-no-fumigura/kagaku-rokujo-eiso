@@ -1,8 +1,8 @@
-# 六帖詠草（続日本歌学全書 底本）（ろくじょうえいそう）
+# 六帖詠草（ろくじょうえいそう）
 
 雲居の文庫（くもゐのふみぐら）の一作品です。著作権の保護期間が満了した刊本から起こした本文を、誰でも読み・使い・直せるように置いています。
 
-**サイトで読む：[六帖詠草（続日本歌学全書 底本）（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zokukagaku06-rokujo-eiso)**（原本の画像の表示、修正案の送信ができます）
+**サイトで読む：[六帖詠草（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zokukagaku06-rokujo-eiso)**（原本の画像の表示、修正案の送信ができます）
 
 | | |
 |---|---|
